@@ -1,4 +1,6 @@
-Working in HCL technologies as an android development engineer for Android TV & mobile.
+### Hi there 👋
+
+This is Mahesh Thopukara, Working in HCL technologies as an android development engineer for Android TV & mobile.
 - Mobile and Digital Tv Knowledge. (DVB/DTMB/ATSC)
 - DVB Scanning design (Auto scan, Manual scan, M7 Scan, Tricolor Scan, MDU Scan)
 - Android Java & Kotlin
