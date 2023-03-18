@@ -1,16 +1,15 @@
-### Hi there 👋
+Working in HCL technologies as an android development engineer for Android TV & mobile.
+- Mobile and Digital Tv Knowledge. (DVB/DTMB/ATSC)
+- DVB Scanning design (Auto scan, Manual scan, M7 Scan, Tricolor Scan, MDU Scan)
+- Android Java & Kotlin
+- Android Activity, Fragment, Service, Broadcast Receiver, AIDL, Preference Fragment, GuidedStepFragment.
+- Android TvInputService
+- Android Framework 
+- Jetpack libraries
+- MVI, MVVM and Clean architecture design. 
+- Dependency Injection (Dagger2 & Hilt)
+- Kotlin flow & Coroutines.
+- Jetpack compose
+- Django Python(REST API)
 
-<!--
-**MaheshThopukara/MaheshThopukara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![MaheshThopukara's github stats](https://github-readme-stats.vercel.app/api?username=maheshthopukara&theme=dracula&show_icons=true&count_private=true)
